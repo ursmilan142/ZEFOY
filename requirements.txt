@@ -3,3 +3,4 @@ selenium
 pillow
 io
 webdriver_manager
+pystyle
